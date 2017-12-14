@@ -1,4 +1,4 @@
-# curso-mug2017
+# Azure functions 2017 - MUG
 
 ## links
 [Stream analytics por Leo Micheloni](https://goo.gl/9r9Qdo)
