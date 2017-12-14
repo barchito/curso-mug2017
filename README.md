@@ -7,6 +7,10 @@
 
 [Procesar 100.000 eventos por segundo](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions)
 
+[Meetup net-baires](https://www.meetup.com/es/Net-Baires/)
+
+[Slack net-baires](https://slack.net-baires.com.ar/)
+
 
 ## Indispensables
 [Channel 9 Videos sobre Microsoft y Azure](https://channel9.msdn.com)
