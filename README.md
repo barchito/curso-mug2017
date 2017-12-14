@@ -10,7 +10,10 @@
 
 ## Indispensables
 [Channel 9 Videos sobre Microsoft y Azure](https://channel9.msdn.com)
+
 [Azure functions docs](https://docs.microsoft.com/en-us/azure/azure-functions/)
+
 [Azure logic apps docs](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-what-are-logic-apps)
+
 [Durable functions docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview)
 
